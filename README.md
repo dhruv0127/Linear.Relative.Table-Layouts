@@ -1,2 +1,2 @@
-# Practical_2
+# Layouts in Android
  
